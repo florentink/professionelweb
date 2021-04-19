@@ -1,0 +1,76 @@
+# banner
+banner:
+  title : "Hi! I’m <br> Florentin <br> IT ingenieur"
+
+# about
+about:
+  enable : true
+  content : "I am KABORE Wendmimtiri Florentin, I leave in koudougou, Burkina Faso,i am web app Programmer and Designer, and love Singing."
+  button:
+    enable : true
+    label : "know more"
+    URL : "about"
+
+# skill
+skill:
+  enable : true
+  title : "Skills"
+  item:
+    - title : "Web Design"
+      progress : "80%"
+      color : "#fdb653"
+      
+    - title : "Logo Design"
+      progress : "60%"
+      color : "#1003e6"
+      
+    - title : "After Effects"
+      progress : "80%"
+      color : "#bdecf6"
+      
+    - title : "Web App"
+      progress : "70%"
+      color : "#ffbcaa"
+
+# experience
+experience:
+  enable : true
+  title : "Experience"
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Junior web Disigner"
+      company : "APISAVANA"
+      duration : "Jan 2007 - Feb 2009"
+      
+    - logo : "images/experience/icon-2.png"
+      title : "UX & UI Designer"
+      company : "AUGMEDIX"
+      duration : "Mar 2009 - Aug 2014"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Senior UI Designer"
+      company : "THEMEFISHER"
+      duration : "Sep 2014 - Present"
+
+# education
+education:
+  enable : true
+  title : "Education"
+  item:
+    - title : "third year"
+      year : "2021"
+      academy : "Burkina institute of Technology"
+      
+    - title : "Higher Secondary Certificat"
+      year : "2018"
+      academy : "Secondary School of FARA"
+      
+    - title : "High School Certificate"
+      year : "2011"
+      academy : "FARA B"
+
+# blog
+blog:
+  enable : true
+  title : "Blogs"
+  # blog post comes from "content/blog" folder
