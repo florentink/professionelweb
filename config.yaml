@@ -1,7 +1,7 @@
-baseURL: https://florentin.netlify.app
+baseURL: https://florentinweb7.netlify.app
 languageCode: en-us
 summaryLength: '10'
-theme: Florentin
+theme: kross-hugo
 title: Florentin
 params:
   address: 125/A, CA Commercial Area, KOUDOUGOU, BURKINA FASO
@@ -57,9 +57,6 @@ menu:
     - URL: blog
       name: Blog
       weight: 2
-    - URL: portfol
-      name: Portfolio
-      weight: 3
     - URL: contact
       name: Contact
       weight: 4
